@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Feedback](#feedback)
 
 
 
@@ -57,3 +58,10 @@ Through working on this project, I was able to practice and refine my CSS abilit
 
 - Frontend Mentor - [@sharonlhs](https://www.frontendmentor.io/profile/sharonlhs)
 - LinkedIN - [@sharonlhs](https://www.linkedin.com/in/sharonlhs/)
+
+## Feedback
+
+Thank you for the helpful feedback. Accordingly, I have updated my code and is able to make it simpler and easier to understand.
+
+- Abdul Khalid [@0xAbdulKhalid](https://www.frontendmentor.io/profile/0xAbdulKhalid)
+- Ecem Gokdogan [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)

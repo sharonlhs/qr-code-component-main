@@ -11,9 +11,14 @@ font-family: 'Outfit', sans-serif;
 body {
   background-image: url(images/bg.jpg);
   background-size: cover;
-  padding: 1em;
+  background-repeat: no-repeat;
+  /* padding: 1em; */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-#outer {
+/* #outer {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,7 +33,7 @@ body {
   width: 100%;
   background-color: transparent;
   box-shadow: -5px 15px 20px rgba(0, 0, 0, 0.055);
-}
+} */
 #wrapper {
   background-color: var(--white);
   padding: 20px;
